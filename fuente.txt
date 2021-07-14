@@ -1,0 +1,8 @@
+if (a>10)
+a := 10;
+hola == 5;
+end
+if(b<4)
+c := 7;
+bye == 8;
+end
